@@ -1,18 +1,3 @@
-## 1 游戏之乐——游戏中碰到的题目
-
-### 1.2_中国象棋将帅问题.md
-
-#### 问题描述：
-
-[1.2_中国象棋将帅问题（截图来自《编程之美》）](https://github.com/henrylee2cn/beauty-go/blob/master/1_游戏之乐/1.2题目.png)
-
-#### Go版答案
-
-解法一：
-
-[go code](https://github.com/henrylee2cn/beauty-go/blob/master/1_游戏之乐/1.2_中国象棋将帅问题_test.go)
-
-```go
 package main
 
 import (
@@ -60,5 +45,3 @@ func Test中国象棋将帅问题解法一(t *testing.T) {
 		}
 	}
 }
-```
-
